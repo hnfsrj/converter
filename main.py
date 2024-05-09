@@ -10,7 +10,7 @@ import socket
 import threading
 
 
-kivy.require('1.9.0')
+# kivy.require('1.9.0')
 
 HOST = socket.gethostbyname(socket.gethostname())
 PORT = 7432
